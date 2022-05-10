@@ -1,1 +1,1 @@
-# logical-opration
+# logical-opration on truthy and falsy
